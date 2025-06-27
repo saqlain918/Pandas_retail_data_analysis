@@ -21,7 +21,6 @@ This project analyzes a sample retail sales dataset using Python and pandas. It 
   - Missing values per column
   - First 5 sample rows
 
----
 
 ### 2. Data Cleaning
 - **Missing Values**: 
@@ -34,7 +33,6 @@ This project analyzes a sample retail sales dataset using Python and pandas. It 
 - **Type Enforcement**: 
   - Ensures `Quantity`, `UnitPrice`, `Discount`, `ShippingCost`, and `Profit` are numeric.
 
----
 
 ### 3. Feature Engineering
 - `TotalPrice` = `Quantity × UnitPrice × (1 - Discount)`
