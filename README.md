@@ -86,11 +86,7 @@ pip install pandas
 ##  How to Run
 
 1. Place `retail_sales_sample.csv` in the same folder.
-2. Run the Python script (`.py`) using any Python IDE or terminal:
-
-```bash
-python retail_sales_analysis.py
-```
+2. Run the Python script (`.py`) using Pycharm
 
 
 ##  Insights You Can Gain
